@@ -1,0 +1,26 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Artefactos de empaquetado
+*.egg-info/
+build/
+dist/
+*.egg
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Exportaciones del escáner
+hosts.json
+hosts.csv
+
+# Editores / SO
+.vscode/
+.idea/
+*.swp
+.DS_Store
